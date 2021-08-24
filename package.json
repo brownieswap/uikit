@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yunusnode/brownie-ui.git"
+    "url": "git+https://github.com/brownieswap/uikit.git"
   },
   "license": "MIT",
   "scripts": {
@@ -87,8 +87,8 @@
     "styled-system": "^5.1.5"
   },
   "bugs": {
-    "url": "https://github.com/yunusnode/brownie-ui"
+    "url": "https://github.com/brownieswap/uikit"
   },
-  "homepage": "https://github.com/yunusnode/brownie-ui#readme",
+  "homepage": "https://github.com/brownieswap/uikit#readme",
   "author": ""
 }
