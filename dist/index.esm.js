@@ -2149,15 +2149,15 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
+                href: "https://github.com/brownieswap",
             },
             {
                 label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
+                href: "#",
             },
             {
                 label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "#",
             },
         ],
     },
@@ -2166,27 +2166,27 @@ var socials = [
     {
         label: "Github",
         icon: "GithubIcon",
-        href: "https://github.com/SwordFinance/contract",
+        href: "https://github.com/brownieswap/contract",
     },
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "https://financesword.gitbook.io/sword-finance/",
+        href: "#",
     },
     {
         label: "Telegram",
         icon: "TelegramIcon",
         items: [
             {
-                label: "English",
-                href: "https://t.me/SwordFinance",
+                label: "",
+                href: "#",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/sword_finance",
+        href: "#",
     },
 ];
 var MENU_HEIGHT = 64;
