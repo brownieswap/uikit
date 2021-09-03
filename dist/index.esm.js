@@ -2153,11 +2153,11 @@ var links = [
             },
             {
                 label: "Docs",
-                href: "#",
+                href: "https://docs.brownieswap.io/",
             },
             {
                 label: "Blog",
-                href: "#",
+                href: "https://docs.brownieswap.io/",
             },
         ],
     },
@@ -2171,7 +2171,7 @@ var socials = [
     {
         label: "Gitbook",
         icon: "GitbookIcon",
-        href: "#",
+        href: "https://docs.brownieswap.io/",
     },
     {
         label: "Telegram",
@@ -2179,14 +2179,14 @@ var socials = [
         items: [
             {
                 label: "",
-                href: "#",
+                href: "t.me/BrownieSwapio",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "#",
+        href: "https://twitter.com/brownieswapio",
     },
 ];
 var MENU_HEIGHT = 64;
