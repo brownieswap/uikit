@@ -2178,7 +2178,7 @@ var socials = [
         icon: "TelegramIcon",
         items: [
             {
-                label: "",
+                label: "English",
                 href: "t.me/BrownieSwapio",
             },
         ],
