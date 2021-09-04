@@ -2179,7 +2179,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "t.me/BrownieSwapio",
+                href: "https://t.me/BrownieSwapio",
             },
         ],
     },
