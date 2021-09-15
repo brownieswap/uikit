@@ -1885,7 +1885,7 @@ var Icon$T = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 39" }, props),
-        React.createElement("image", { width: "205", height: "40", href: isDark ? "/images/banner.jpg" : "/images/banner.jpg" })));
+        React.createElement("image", { width: "205", height: "40", href: isDark ? "/images/banner.svg" : "/images/banner.svg" })));
 };
 
 var Icon$U = function (props) {
